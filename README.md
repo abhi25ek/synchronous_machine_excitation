@@ -1,1 +1,2 @@
-# synchronous_machine_excitation
+# Synchronous Machine Excitation Current using Linear Regression
+
